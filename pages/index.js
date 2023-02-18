@@ -16,7 +16,7 @@ export default function Home() {
             <a href="https://nextjs.org/learn">a Next.js tutorial</a>.)
           </p>
             <h1>
-                <Link href="/posts/first-post">Go see my first post</Link>
+                <Link href="/posts/first-post">Go see my blog</Link>
             </h1>
         </section>
       </Layout>
